@@ -11,7 +11,7 @@ Sou uma entusiasta da tecnologia e estou sempre em busca de novos desafios para 
 Meu portfólio é um projeto desenvolvido com foco na responsividade, garantindo uma experiência consistente em diferentes dispositivos. Você pode conferir o projeto e o código-fonte nos links abaixo:
 
 - [**Link do Projeto**](https://codepen.io/tatiane-nascimento/full/oNrMJKp)
-- [**Link do Repositório**]([inserir_link_repositorio_aqui](https://github.com/tatiane347/Portif-lio-Responsivo-Tatiane-Nascimento-))
+- [**Link do Repositório**]([inserir_link_repositorio_aqui] https://github.com/tatiane347/Portif-lio-Responsivo-Tatiane-Nascimento
 
 ## LinkedIn
 
